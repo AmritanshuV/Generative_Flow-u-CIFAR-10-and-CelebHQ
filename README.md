@@ -2,6 +2,8 @@
 
 Decoupling Global and Local Representations via Invertible Generative Flows:
 The results shown are for switch betweenthe 10 classes of CIFAR10 dataset. The images are given in result folder
+
+
 ![switch1](https://user-images.githubusercontent.com/88365075/145805595-65c73217-4163-4e73-a4f1-7df627c1d3ca.png)
 ![switch4](https://user-images.githubusercontent.com/88365075/145805623-f6cdee8b-1f53-4f25-8800-467217b00bc8.png)
 ![switch5](https://user-images.githubusercontent.com/88365075/145805629-198a9fe9-d68a-44c9-9a38-4288977d9fef.png)
